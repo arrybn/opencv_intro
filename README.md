@@ -2,6 +2,8 @@
 
 This repository contains source code and data for slides: https://docs.google.com/presentation/d/1BAnB-vFKhyoCQB8D7WyudHWu96ceJl08p18EkRcnWvY
 
+Video is available here: https://www.youtube.com/watch?v=I01z6awVIWQ&index=7&list=PLDeTmvygbruRGMIvUzMYvabduwCcATc--
+
 The code is written using OpenCV 3.3
 
 If you've built OpenCV from sources, don't forget to set correct PYTHONPATH environment variable:
